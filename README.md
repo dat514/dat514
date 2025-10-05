@@ -1,11 +1,9 @@
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is dat514
 <div align="center">
   <a href="https://discord.com/users/991581569917657178">
     <img src="https://lanyard.cnrad.dev/api/991581569917657178?showDisplayName=true&idleMessage=Just%20a%20normal%20developer" alt="Discord Presence"/>
   </a>
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is dat514
 ===============================================================================================================================
 
 I'm passionate about exploring music production, game development, and web design — combining creativity and technology.
