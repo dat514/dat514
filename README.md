@@ -8,7 +8,7 @@
 
 ---
 
-### 🎵 About Me
+### 🌞 About Me
 
 I'm passionate about **music production**, **game development**, and **web design** — blending creativity with technology.
 
