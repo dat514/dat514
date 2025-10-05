@@ -45,16 +45,12 @@ I'm passionate about **music production**, **game development**, and **web desig
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" width="36" height="36" alt="Photoshop" title="Photoshop" /></a>
-  <!-- FL Studio -->
-  <a href="https://www.image-line.com/flstudio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dat514/assets/main/icons/flstudio.svg" width="36" height="36" alt="FL Studio" title="FL Studio" />
-  </a>
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/dat514/assets/main/icons/unity.svg" width="36" height="36" alt="Unity" title="Unity" />
-  </a>
+  <a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" title="Unity" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" alt="Visual Studio" title="Visual Studio" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop" title="Adobe Photoshop" />
+</a>
+
 </p>
 
 ---
@@ -88,3 +84,5 @@ I'm passionate about **music production**, **game development**, and **web desig
 ---
 
 ⭐ *"Just a normal developer exploring creativity through code and sound."*
+
+![snake gif](https://github.com/dat514/dat514/blob/output/github-snake-dark.svg)
