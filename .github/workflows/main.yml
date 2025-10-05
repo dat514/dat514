@@ -1,9 +1,9 @@
-name: generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"    # chạy mỗi 12 giờ
-  workflow_dispatch:
+    - cron: "0 */12 * * *" 
+  workflow_dispatch:        
 
 jobs:
   generate:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: generate github-contribution-grid-snake
+      - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push output
+      - name: Push output to 'output' branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
