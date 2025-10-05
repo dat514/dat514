@@ -87,7 +87,7 @@ I'm passionate about **music production**, **game development**, and **web desig
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/dat514/dat514/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 
 ⭐ *"Just a normal developer exploring creativity through code and sound."*
