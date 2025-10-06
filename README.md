@@ -148,12 +148,16 @@
 <img src="svg/ezgif.com-effects.gif" 
 
 ---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=dat514&style=flat-square&color=9B4F96" alt="Profile Views"/>
+
 
 <div align="center">
   <b>⭐ Just a normal developer exploring creativity through code and sound</b>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dat514&style=flat-square&color=blue" alt="Profile Views"/>
+
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer" width="100%"/>
