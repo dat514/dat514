@@ -102,16 +102,16 @@
 
 </div>
   <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat514&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F75C7E&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat514&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F75C7E&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 <div align="center">
   </div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dat514&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=9B4F96&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dat514&theme=radical&hide_border=true&background=1a1b27&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dat514&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=9B4F96&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dat514&theme=radical&hide_border=true&background=1a1b27&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 <div align="center">
 
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dat514&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F75C7E&line=9B4F96&point=F75C7E" alt="Contribution Graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dat514&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F75C7E&line=9B4F96&point=F75C7E&cache_seconds=1800" alt="Contribution Graph" />
 </div>
 
 
