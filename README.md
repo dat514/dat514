@@ -70,34 +70,11 @@ I'm passionate about **music production**, **game development**, and **web desig
 
 ### 🌐 Socials
 
-<p align="center">
-  <a href="https://www.x.com/ramesses_dxiv" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
-  </picture>
-</a>
-
-
-  <a href="https://discord.com/users/991581569917657178" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord"/>
-    </picture>
-  </a>
-  <a href="https://www.facebook.com/duy.at.245539" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook"/>
-    </picture>
+<p align="left">
+  <a href="https://dat514.pages.dev/" target="_blank">
+    <img src="svg/g.svg" width="60" alt="dat514 Logo" title="Visit my website" />
   </a>
 </p>
-
-
-<img src="svg/g.svg" width="150" alt="Logo" />
 
 ---
 
