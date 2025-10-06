@@ -96,6 +96,9 @@ I'm passionate about **music production**, **game development**, and **web desig
   </a>
 </p>
 
+
+<img src="svg/g.svg" width="150" alt="Logo" />
+
 ---
 
 ⭐ *"Just a normal developer exploring creativity through code and sound."* 
