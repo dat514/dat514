@@ -44,11 +44,10 @@ I'm passionate about **music production**, **game development**, and **web desig
   <a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" title="Blender" /></a>
   <a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" title="Unity" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" alt="Visual Studio" title="Visual Studio" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop" title="Adobe Photoshop" />
-</a>
-
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="36" height="36" alt="Photoshop" title="Adobe Photoshop" /></a>
+  <a href="https://www.image-line.com/fl-studio/" target="_blank"><img src="svg/f.svg" width="36" height="36" alt="FL Studio" title="FL Studio" /></a>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
