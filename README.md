@@ -148,14 +148,16 @@
 <img src="svg/ezgif.com-effects.gif" 
 
 ---
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dat514&style=flat-square&color=9B4F96" alt="Profile Views"/>
-
 
 <div align="center">
   <b>⭐ Just a normal developer exploring creativity through code and sound</b>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dat514&style=flat-square&color=9B4F96" alt="Profile Views"/>
+</div>
 
 
 
