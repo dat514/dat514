@@ -54,8 +54,8 @@ I'm passionate about **music production**, **game development**, and **web desig
 ## 📊 GitHub Stats
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dat514&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="dat514's GitHub stats" style="display: inline-block;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat514&theme=omni&hide_border=true" alt="GitHub Streak" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dat514&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="dat514's GitHub stats" style="display: inline-block;" />
 </p>
 
 <p align="center">
