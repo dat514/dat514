@@ -98,6 +98,6 @@ I'm passionate about **music production**, **game development**, and **web desig
 
 ---
 
-⭐ *"Just a normal developer exploring creativity through code and sound."*
+⭐ *"Just a normal developer exploring creativity through code and sound."* 
 
 ![snake gif](https://github.com/dat514/dat514/blob/output/github-snake-dark.svg)
