@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 ### 🌞 About Me
 
 I'm passionate about **music production**, **game development**, and **web design** — blending creativity with technology.
@@ -17,7 +16,6 @@ I'm passionate about **music production**, **game development**, and **web desig
 - 💬 Always exploring, experimenting, and improving my skills
 
 ---
-
 ### 🎶 Music & Audio
 - Producing beats and soundscapes with **FL Studio**  
 - Exploring **sound design** and **mixing**
@@ -32,7 +30,6 @@ I'm passionate about **music production**, **game development**, and **web desig
 - Focusing on **interactive** and **responsive** web design
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -54,20 +51,18 @@ I'm passionate about **music production**, **game development**, and **web desig
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dat514&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat514&theme=omni&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dat514&theme=omni&hide_border=true" alt="GitHub Streak" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dat514&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="dat514's GitHub stats" style="display: inline-block;" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat514&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dat514&layout=compact&theme=omni&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
-
 ### 🌐 Socials
 
 <p align="left">
