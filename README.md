@@ -112,7 +112,7 @@
 <div align="center">
 
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=dat514&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F75C7E&line=9B4F96&point=F75C7E&cache_seconds=1800" alt="Contribution Graph" />
-</div>
+</div> 
 
 
 </div>
