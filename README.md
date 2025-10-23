@@ -4,11 +4,7 @@
 
 </div>
 
-<div align="center">
-  <a href="https://discord.com/users/991581569917657178">
-    <img src="https://lanyard.cnrad.dev/api/991581569917657178?showDisplayName=true&idleMessage=Just%20a%20normal%20developer&bg=1a1b27&borderRadius=10px&animated=true" alt="Discord Presence" />
-  </a>
-</div> 
+
 
 
 </div>
