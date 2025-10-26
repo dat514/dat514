@@ -7,7 +7,7 @@
 
 
  
-</div>
+</div> 
 <img src="svg/ezgif.com-effects.gif" 
   
 ---
