@@ -1,3 +1,6 @@
+
+</div> 
+<img src="svg/ezgif.com-effects.gif" 
 <div align="center">  
     
 <img src="https://raw.githubusercontent.com/dat514/dat514/main/svg/giff.gif" width="100%"/>
