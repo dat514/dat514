@@ -18,11 +18,11 @@
 
 
     
-- 😀 I'm passionate about **music production**, **game development**, and **web design** — blending creativity with technology
+- I'm passionate about **music production**, **game development**, and **web design** — blending creativity with technology
 
-- :earth_africa: Based in **Ho Chi Minh City, Vietnam**
-- :brain: Currently learning **Unity**, **Blender**, **FL Studio**
-- :speech_balloon: Always exploring, experimenting, and improving my skills
+- Based in **Ho Chi Minh City, Vietnam**
+- urrently learning **Unity**, **Blender**, **FL Studio**
+- Always exploring, experimenting, and improving my skills
 
 
 </div>
