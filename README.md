@@ -21,7 +21,7 @@
 - 😀 I'm passionate about **music production**, **game development**, and **web design** — blending creativity with technology
 
 - :earth_africa: Based in **Ho Chi Minh City, Vietnam**
-- :brain: Currently learning **Unity**, **Blender**, **FL Studio**, and **Adobe Photoshop**
+- :brain: Currently learning **Unity**, **Blender**, **FL Studio**
 - :speech_balloon: Always exploring, experimenting, and improving my skills
 
 
@@ -82,6 +82,8 @@
   <img src="https://img.shields.io/badge/FL_Studio-F75C7E?style=for-the-badge&logo=image-line&logoColor=white" alt="FL Studio"/>
   <img src="https://img.shields.io/badge/Blender-9B4F96?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/Photoshop-F75C7E?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9B4F96?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/After_Effects-F75C7E?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Unity-9B4F96?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/VS_Code-F75C7E?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Visual_Studio-9B4F96?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
@@ -89,6 +91,7 @@
   <img src="https://img.shields.io/badge/Node.js-9B4F96?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-F75C7E?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+
 
 
 </div>
