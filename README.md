@@ -3,7 +3,10 @@
 <img src="svg/ezgif.com-effects.gif" 
 <div align="center">  
     
-<img src="https://raw.githubusercontent.com/dat514/dat514/main/svg/giff.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/dat514/dat514sssssssss/main/svg/giff.gif" width="100%"/>
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=Hi%20there%20%20I'm%20dat514👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
   
