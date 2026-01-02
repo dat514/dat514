@@ -1,6 +1,6 @@
 
 </div> 
-<img src="svg/ezgif.com-effects.gif" 
+<img src="svg/ezgif.com-effects.gifcc" 
 <div align="center">  
     
 <img src="https://raw.githubusercontent.com/dat514/dat514sssssssss/main/svg/giff.gif" width="100%"/>
