@@ -144,10 +144,8 @@
   <a href="https://dat514.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Bio-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Bio"/>
   </a>
-  <a href="https://discord.com/users/991581569917657178" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-9B4F96?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
+
 
 </div>
 <img src="svg/ezgif.com-effects.gif" 
