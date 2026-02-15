@@ -141,8 +141,8 @@
 <h3>🌐 Let's Connect<t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
 
 <p>
-  <a href="https://dat514.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://dat514.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Bio-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Bio"/>
   </a>
   <a href="https://discord.com/users/991581569917657178" target="_blank">
     <img src="https://img.shields.io/badge/Discord-9B4F96?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
