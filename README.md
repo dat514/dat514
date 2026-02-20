@@ -1,4 +1,4 @@
-
+  
 </div>  
 <img src="svg/ezgif.com-effects.gifcc" 
 <div align="center">  
