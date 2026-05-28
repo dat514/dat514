@@ -32,12 +32,12 @@
 <img src="svg/ezgif.com-effects.gif" 
 ---
 
-
+<!--
 <div align="center">
 
 <h3>🎯 What I Do <t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
   
-
+<!--
 <table align="center">
 <tr>
 <td width="33%" valign="top">
@@ -66,7 +66,7 @@
 </td>
 </tr>
 </table>
-
+-->
 </div>
 <img src="svg/ezgif.com-effects.gif" 
 
